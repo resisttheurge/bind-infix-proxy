@@ -1,0 +1,29 @@
+{
+  "name": "bind-infix-proxy",
+  "version": "1.0.0",
+  "description": "Proxy-backed portable, lightweight JavaScript method extensions, minus the monkeypatching.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resisttheurge/bind-infix-proxy.git"
+  },
+  "keywords": [
+    "proxy",
+    "function",
+    "binding",
+    "this",
+    "keyword",
+    "infix",
+    "bind",
+    "operator"
+  ],
+  "author": "Peter Zastoupil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/resisttheurge/bind-infix-proxy/issues"
+  },
+  "homepage": "https://github.com/resisttheurge/bind-infix-proxy#readme"
+}
